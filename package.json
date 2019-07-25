@@ -1,7 +1,7 @@
 {
   "name": "GoogleCloudVisionAPI",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/app_textOCR.js",
   "license": "MIT",
   "scripts": {
     "plateLabels": "node src/app_labels.js",

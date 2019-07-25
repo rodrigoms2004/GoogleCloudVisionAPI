@@ -10,7 +10,6 @@ Testing using Google API
 
 ## Documentation
 
-Details:
 [Vision AI](https://cloud.google.com/vision/?hl=pt_BR&_ga=2.195531240.-5152013.1563882799&_gac=1.250734898.1563998414.EAIaIQobChMIsoHxrMHN4wIVBg-RCh0DtwJyEAAYASAAEgJbE_D_BwE)
 
 [Detect text in images](https://cloud.google.com/vision/docs/ocr)
